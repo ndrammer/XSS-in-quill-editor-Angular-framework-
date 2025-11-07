@@ -20,7 +20,7 @@ Lunch quill editor  as a component in stackblitz.io platform and inject payload 
 
 Any other payloads are blocked, but not this one.
 
-In a private pentest, attack was done in server side not just client side. The content of the message was inserted using a POST request using the description field, leading to a strored XSS.
+In a private pentest, attack was done in server side not just client side. The content of the message was inserted using a POST request using the description field, leading to a stored XSS.
 
 ![XSS-ServerSide](https://github.com/user-attachments/assets/4aa23821-b714-426b-81a1-37c575cd37bc)
 
